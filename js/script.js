@@ -19,9 +19,13 @@
 })(jQuery);
 
 //$(document).on('click', function(){
-$(document).onload = function(){
-    document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
+//$(document).onload = function(){
+//    document.getElementById("my_audio").play();
+//    console.log('Shaadi me zaroor aana');
+//});
+
+(document).ready(function(){
+     $("#my_audio")get(0).play();
 });
 
 // Set the date we're counting down to
