@@ -490,6 +490,17 @@ body {
 	margin-right: 8px;
 }
 
+.nitesh {
+	width: auto;
+	height: auto;
+	background-color: #674ea7;
+	border-radius: 16px;
+	text-align: center;
+	color: #fff;
+	padding: 8px;
+	margin-right: 8px;
+}
+
 .venue a {
 	text-decoration: none;
 	color: #fff;
