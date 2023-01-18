@@ -18,7 +18,7 @@
 
 })(jQuery);
 
-$(document).load(function(){
+$(document).on("click" , function(){
     document.getElementById("my_audio").play();
     console.log('Event is managed by Dream Events');
 });
