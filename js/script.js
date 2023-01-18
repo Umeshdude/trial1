@@ -20,7 +20,7 @@
 
 $(document).load(function(){
     document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
+    console.log('Event is managed by Dream Events');
 });
 
 // Set the date we're counting down to
